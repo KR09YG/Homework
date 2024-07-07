@@ -70,3 +70,164 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/_EndlessRunner.meta
+Assets/Character_0.controller
+Assets/Character_0.controller.meta
+Assets/coin_anim.anim
+Assets/coin_anim.anim.meta
+Assets/Collectables_0.controller
+Assets/Collectables_0.controller.meta
+Assets/Hero Knight - Pixel Art.meta
+Assets/Resources.meta
+Assets/run_anim.anim
+Assets/run_anim.anim.meta
+Assets/Scenes.meta
+Assets/_EndlessRunner/Art.meta
+Assets/_EndlessRunner/Audio.meta
+Assets/_EndlessRunner/Move.cs
+Assets/_EndlessRunner/Move.cs.meta
+Assets/_EndlessRunner/Art/Backdrop.png
+Assets/_EndlessRunner/Art/Backdrop.png.meta
+Assets/_EndlessRunner/Art/Character.png
+Assets/_EndlessRunner/Art/Character.png.meta
+Assets/_EndlessRunner/Art/Collectables.png
+Assets/_EndlessRunner/Art/Collectables.png.meta
+Assets/_EndlessRunner/Art/GameOverBG.jpg
+Assets/_EndlessRunner/Art/GameOverBG.jpg.meta
+Assets/_EndlessRunner/Art/Platforms.png
+Assets/_EndlessRunner/Art/Platforms.png.meta
+Assets/_EndlessRunner/Art/RetryButton.png
+Assets/_EndlessRunner/Art/RetryButton.png.meta
+Assets/_EndlessRunner/Art/SkySunset.png
+Assets/_EndlessRunner/Art/SkySunset.png.meta
+Assets/_EndlessRunner/Art/The Goldsmith_Vintage.otf
+Assets/_EndlessRunner/Art/The Goldsmith_Vintage.otf.meta
+Assets/_EndlessRunner/Art/The Goldsmith_Vintage.ttf
+Assets/_EndlessRunner/Art/The Goldsmith_Vintage.ttf.meta
+Assets/_EndlessRunner/Audio/Music.meta
+Assets/_EndlessRunner/Audio/SFX.meta
+Assets/_EndlessRunner/Audio/Music/GameMusic.wav
+Assets/_EndlessRunner/Audio/Music/GameMusic.wav.meta
+Assets/_EndlessRunner/Audio/Music/GameOverScreenMusic.wav
+Assets/_EndlessRunner/Audio/Music/GameOverScreenMusic.wav.meta
+Assets/_EndlessRunner/Audio/SFX/AmbienceBase.wav
+Assets/_EndlessRunner/Audio/SFX/AmbienceBase.wav.meta
+Assets/_EndlessRunner/Audio/SFX/AmbienceNight.wav
+Assets/_EndlessRunner/Audio/SFX/AmbienceNight.wav.meta
+Assets/_EndlessRunner/Audio/SFX/Coin.wav
+Assets/_EndlessRunner/Audio/SFX/Coin.wav.meta
+Assets/_EndlessRunner/Audio/SFX/DoubleJump.wav
+Assets/_EndlessRunner/Audio/SFX/DoubleJump.wav.meta
+Assets/_EndlessRunner/Audio/SFX/GameOverHit.wav
+Assets/_EndlessRunner/Audio/SFX/GameOverHit.wav.meta
+Assets/_EndlessRunner/Audio/SFX/Jump.wav
+Assets/_EndlessRunner/Audio/SFX/Jump.wav.meta
+Assets/_EndlessRunner/Audio/SFX/Land.wav
+Assets/_EndlessRunner/Audio/SFX/Land.wav.meta
+Assets/_EndlessRunner/Audio/SFX/PowerupDoubleJump.wav
+Assets/_EndlessRunner/Audio/SFX/PowerupDoubleJump.wav.meta
+Assets/_EndlessRunner/Audio/SFX/PowerupShield.wav
+Assets/_EndlessRunner/Audio/SFX/PowerupShield.wav.meta
+Assets/_EndlessRunner/Audio/SFX/ShieldBreak.wav
+Assets/_EndlessRunner/Audio/SFX/ShieldBreak.wav.meta
+Assets/Hero Knight - Pixel Art/Animations.meta
+Assets/Hero Knight - Pixel Art/ColorSwap.meta
+Assets/Hero Knight - Pixel Art/Demo.meta
+Assets/Hero Knight - Pixel Art/Environment.meta
+Assets/Hero Knight - Pixel Art/Sprites.meta
+Assets/Hero Knight - Pixel Art/Animations/BlockFlash.anim
+Assets/Hero Knight - Pixel Art/Animations/BlockFlash.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/BlockFlash_AnimController.controller
+Assets/Hero Knight - Pixel Art/Animations/BlockFlash_AnimController.controller.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_AnimController.controller
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_AnimController.controller.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Attack1.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Attack1.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Attack2.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Attack2.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Attack3.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Attack3.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Block.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Block.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_BlockIdle.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_BlockIdle.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_BlockNoEffect.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_BlockNoEffect.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Death.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Death.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_DeathNoBlood.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_DeathNoBlood.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Fall.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Fall.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Hurt.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Hurt.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Idle.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Idle.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_IdleBlock.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_IdleBlock.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Jump.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Jump.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_LedgeGrab.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_LedgeGrab.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Roll.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Roll.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Run.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Run.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_WallSlide.anim
+Assets/Hero Knight - Pixel Art/Animations/HeroKnight_WallSlide.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/SlideDust.anim
+Assets/Hero Knight - Pixel Art/Animations/SlideDust.anim.meta
+Assets/Hero Knight - Pixel Art/Animations/SlideDust.controller
+Assets/Hero Knight - Pixel Art/Animations/SlideDust.controller.meta
+Assets/Hero Knight - Pixel Art/ColorSwap/ColorSwap.mat
+Assets/Hero Knight - Pixel Art/ColorSwap/ColorSwap.mat.meta
+Assets/Hero Knight - Pixel Art/ColorSwap/ColorSwap_HeroKnight.cs
+Assets/Hero Knight - Pixel Art/ColorSwap/ColorSwap_HeroKnight.cs.meta
+Assets/Hero Knight - Pixel Art/ColorSwap/Sprites-ColorSwap.shader
+Assets/Hero Knight - Pixel Art/ColorSwap/Sprites-ColorSwap.shader.meta
+Assets/Hero Knight - Pixel Art/ColorSwap/swap_texture.png
+Assets/Hero Knight - Pixel Art/ColorSwap/swap_texture.png.meta
+Assets/Hero Knight - Pixel Art/Demo/BlockFlash.prefab
+Assets/Hero Knight - Pixel Art/Demo/BlockFlash.prefab.meta
+Assets/Hero Knight - Pixel Art/Demo/Demo.unity
+Assets/Hero Knight - Pixel Art/Demo/Demo.unity.meta
+Assets/Hero Knight - Pixel Art/Demo/DestroyEvent_HeroKnight.cs
+Assets/Hero Knight - Pixel Art/Demo/DestroyEvent_HeroKnight.cs.meta
+Assets/Hero Knight - Pixel Art/Demo/HeroKnight.cs
+Assets/Hero Knight - Pixel Art/Demo/HeroKnight.cs.meta
+Assets/Hero Knight - Pixel Art/Demo/HeroKnight.prefab
+Assets/Hero Knight - Pixel Art/Demo/HeroKnight.prefab.meta
+Assets/Hero Knight - Pixel Art/Demo/HeroKnight_Green.prefab
+Assets/Hero Knight - Pixel Art/Demo/HeroKnight_Green.prefab.meta
+Assets/Hero Knight - Pixel Art/Demo/HeroKnight_Yellow.prefab
+Assets/Hero Knight - Pixel Art/Demo/HeroKnight_Yellow.prefab.meta
+Assets/Hero Knight - Pixel Art/Demo/Sensor_HeroKnight.cs
+Assets/Hero Knight - Pixel Art/Demo/Sensor_HeroKnight.cs.meta
+Assets/Hero Knight - Pixel Art/Demo/SlideDust.prefab
+Assets/Hero Knight - Pixel Art/Demo/SlideDust.prefab.meta
+Assets/Hero Knight - Pixel Art/Environment/EnvironmentPalette_HeroKnight.prefab
+Assets/Hero Knight - Pixel Art/Environment/EnvironmentPalette_HeroKnight.prefab.meta
+Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_0.asset
+Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_0.asset.meta
+Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_1.asset
+Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_1.asset.meta
+Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_2.asset
+Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_2.asset.meta
+Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_3.asset
+Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_3.asset.meta
+Assets/Hero Knight - Pixel Art/Environment/Walls_noFriction.physicsMaterial2D
+Assets/Hero Knight - Pixel Art/Environment/Walls_noFriction.physicsMaterial2D.meta
+Assets/Hero Knight - Pixel Art/Sprites/Background.png
+Assets/Hero Knight - Pixel Art/Sprites/Background.png.meta
+Assets/Hero Knight - Pixel Art/Sprites/BlockFlash.png
+Assets/Hero Knight - Pixel Art/Sprites/BlockFlash.png.meta
+Assets/Hero Knight - Pixel Art/Sprites/EnvironmentTiles.png
+Assets/Hero Knight - Pixel Art/Sprites/EnvironmentTiles.png.meta
+Assets/Hero Knight - Pixel Art/Sprites/HeroKnight.png
+Assets/Hero Knight - Pixel Art/Sprites/HeroKnight.png.meta
+Assets/Hero Knight - Pixel Art/Sprites/HeroKnight_BlockNoEffect.png
+Assets/Hero Knight - Pixel Art/Sprites/HeroKnight_BlockNoEffect.png.meta
+Assets/Hero Knight - Pixel Art/Sprites/HeroKnight_DeathNoBlood.png
+Assets/Hero Knight - Pixel Art/Sprites/HeroKnight_DeathNoBlood.png.meta
+Assets/Hero Knight - Pixel Art/Sprites/SlideDust.png
+Assets/Hero Knight - Pixel Art/Sprites/SlideDust.png.meta
