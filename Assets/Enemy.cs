@@ -9,6 +9,8 @@ public class Enemy : Itembase
     [SerializeField] float _speed = 2;
     int _index = 1;
     Rigidbody2D _rb;
+    public int Hp = 1;
+    [SerializeField] GameObject jumpitem;
     public override void Activate()
     {
         _player.currentHp -= _damage;   
@@ -25,6 +27,12 @@ public class Enemy : Itembase
         if ( transform.position.x < -10 )
         {
             Destroy(this.gameObject);
+        }
+        
+        if ( Hp <=0 )
+        {
+            Destroy(this.gameObject);
+            Instantiate(jumpitem);
         }
     }
     // Update is called once per frame
