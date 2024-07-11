@@ -21,7 +21,6 @@ public abstract class Itembase : MonoBehaviour
             if( sound )
             {
                 AudioSource.PlayClipAtPoint(sound, Camera.main.transform.position);
-
             }
             if ( _whenAct == Act.Get)
             {
@@ -38,6 +37,7 @@ public abstract class Itembase : MonoBehaviour
             }
         }
     }
+    
     enum Act
     {
         Get,

@@ -16,6 +16,6 @@ public class Gamemanager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        text.text = score.ToString() + "Point";
+        text.text = score.ToString() + "–‡";
     }
 }

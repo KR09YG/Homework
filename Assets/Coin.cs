@@ -12,6 +12,6 @@ public class Coin : Itembase
     }
     public override void Activate()
     {
-        manager.score += 10;
+        manager.score += 1;
     }
 }
