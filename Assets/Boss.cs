@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEditor.Search;
 using UnityEditor.Tilemaps;
 using UnityEngine;
+using UnityEngine.UI;
 
 
 public class Boss : MonoBehaviour
@@ -14,6 +15,7 @@ public class Boss : MonoBehaviour
     float timer = 0;
     Animator animator;
     public float Hp = 2;
+    [SerializeField] Text text;
     
     // Start is called before the first frame update
     void Start()
@@ -48,6 +50,7 @@ public class Boss : MonoBehaviour
         if( Hp <= 0)
         {
             Destroy(this.gameObject);
+            text.text = "ƒQ[ƒ€ƒNƒŠƒA";
         }
     }
 
@@ -59,6 +62,10 @@ public class Boss : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Player")
+        {
+            Hp -= 1;
+        }
+        if (collision.gameObject.tag == "atc")
         {
             Hp -= 1;
         }

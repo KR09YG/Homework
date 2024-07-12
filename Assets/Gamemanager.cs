@@ -7,6 +7,7 @@ public class Gamemanager : MonoBehaviour
 {
     public float score = 0;
     [SerializeField] Text text;
+    [SerializeField] GameObject game;
     // Start is called before the first frame update
     void Start()
     {
@@ -16,6 +17,10 @@ public class Gamemanager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        text.text = score.ToString() + "–‡";
+        text.text =score.ToString() + "–‡";
+        if ( score > 12 )
+        {
+            game.SetActive( true );
+        }
     }
 }
